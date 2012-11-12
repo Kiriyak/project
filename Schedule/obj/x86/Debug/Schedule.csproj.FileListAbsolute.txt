@@ -1,0 +1,34 @@
+C:\Users\Masha\Documents\Visual Studio 2010\Projects\Schedule\Schedule\bin\Debug\Jlid-k5nvVQ-2.jpg
+C:\Users\Masha\Documents\Visual Studio 2010\Projects\Schedule\Schedule\bin\Debug\Schedule.exe
+C:\Users\Masha\Documents\Visual Studio 2010\Projects\Schedule\Schedule\bin\Debug\Schedule.pdb
+C:\Users\Masha\Documents\Visual Studio 2010\Projects\Schedule\Schedule\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Masha\Documents\Visual Studio 2010\Projects\Schedule\Schedule\obj\x86\Debug\MainWindow.baml
+C:\Users\Masha\Documents\Visual Studio 2010\Projects\Schedule\Schedule\obj\x86\Debug\Window1.baml
+C:\Users\Masha\Documents\Visual Studio 2010\Projects\Schedule\Schedule\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Masha\Documents\Visual Studio 2010\Projects\Schedule\Schedule\obj\x86\Debug\Window1.g.cs
+C:\Users\Masha\Documents\Visual Studio 2010\Projects\Schedule\Schedule\obj\x86\Debug\App.g.cs
+C:\Users\Masha\Documents\Visual Studio 2010\Projects\Schedule\Schedule\obj\x86\Debug\Schedule_MarkupCompile.cache
+C:\Users\Masha\Documents\Visual Studio 2010\Projects\Schedule\Schedule\obj\x86\Debug\Schedule.g.resources
+C:\Users\Masha\Documents\Visual Studio 2010\Projects\Schedule\Schedule\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Masha\Documents\Visual Studio 2010\Projects\Schedule\Schedule\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Masha\Documents\Visual Studio 2010\Projects\Schedule\Schedule\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Masha\Documents\Visual Studio 2010\Projects\Schedule\Schedule\obj\x86\Debug\Schedule.exe
+C:\Users\Masha\Documents\Visual Studio 2010\Projects\Schedule\Schedule\obj\x86\Debug\Schedule.pdb
+C:\Users\Masha\Documents\Visual Studio 2010\Projects\Schedule\Schedule\bin\Debug\old_paper.jpg
+C:\Users\Masha\Documents\Visual Studio 2010\Projects\Schedule\Schedule\obj\x86\Debug\GenerateResource.read.0.tlog
+C:\Users\Masha\Documents\Visual Studio 2010\Projects\Schedule\Schedule\obj\x86\Debug\GenerateResource.write.0.tlog
+G:\Schedule\Schedule\bin\Debug\Jlid-k5nvVQ-2.jpg
+G:\Schedule\Schedule\bin\Debug\old_paper.jpg
+G:\Schedule\Schedule\bin\Debug\Schedule.exe
+G:\Schedule\Schedule\bin\Debug\Schedule.pdb
+G:\Schedule\Schedule\obj\x86\Debug\MainWindow.baml
+G:\Schedule\Schedule\obj\x86\Debug\Window1.baml
+G:\Schedule\Schedule\obj\x86\Debug\MainWindow.g.cs
+G:\Schedule\Schedule\obj\x86\Debug\Window1.g.cs
+G:\Schedule\Schedule\obj\x86\Debug\App.g.cs
+G:\Schedule\Schedule\obj\x86\Debug\Schedule_MarkupCompile.cache
+G:\Schedule\Schedule\obj\x86\Debug\Schedule.g.resources
+G:\Schedule\Schedule\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+G:\Schedule\Schedule\obj\x86\Debug\Schedule.csproj.GenerateResource.Cache
+G:\Schedule\Schedule\obj\x86\Debug\Schedule.exe
+G:\Schedule\Schedule\obj\x86\Debug\Schedule.pdb
