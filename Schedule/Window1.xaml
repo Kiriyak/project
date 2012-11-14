@@ -64,7 +64,6 @@
 			</ListBox>
 		</Grid>
 		<Grid x:Name="main_view" Grid.Column="1" Margin="88,120.5,347.473,26" d:IsHidden="True">
-			<Image Margin="0,4.5,0,0" x:Name="image1" ImageFailed="image1_ImageFailed" Source="pack://siteoforigin:,,,/2etazhpaintedcrop.jpg" HorizontalAlignment="Left" Width="437.645" Height="451" Stretch="Fill" VerticalAlignment="Top" d:LayoutOverrides="HorizontalAlignment, Height, GridBox" />
 			<Image Margin="521.261,0,525.621,0" x:Name="image2" Source="pack://siteoforigin:,,,/4этаж_чист.png" Width="437.645" Height="451" VerticalAlignment="Top" d:LayoutOverrides="HorizontalAlignment, Height, GridBox" />
 			<Image x:Name="image3" Source="pack://siteoforigin:,,,/4этаж_чист.png" Height="451" Width="437.645" VerticalAlignment="Top" d:LayoutOverrides="Height, GridBox" HorizontalAlignment="Right" />
 			<Image HorizontalAlignment="Left" x:Name="image4" Width="437.645" Source="pack://siteoforigin:,,,/4этаж_чист.png" Height="451" VerticalAlignment="Bottom" d:LayoutOverrides="HorizontalAlignment, GridBox" />
