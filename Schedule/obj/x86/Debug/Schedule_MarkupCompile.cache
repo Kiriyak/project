@@ -4,17 +4,26 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 C:\Users\Masha\Documents\GitHub\project\Schedule\obj\x86\Debug\
+=======
+C:\Users\Gaukhar\Documents\GitHub\project\Schedule\obj\x86\Debug\
+>>>>>>> bureau added
 WpfApplication1
 none
 false
 DEBUG;TRACE
+<<<<<<< HEAD
 C:\Users\Masha\Documents\GitHub\project\Schedule\App.xaml
 2462529049
+=======
+C:\Users\Gaukhar\Documents\GitHub\project\Schedule\App.xaml
+31954625624
+>>>>>>> bureau added
 
-6-1344379206
-12-1381780322
-MainWindow.xaml;Window1.xaml;
+71182775947
+12-1547151337
+bureau.xaml;MainWindow.xaml;Window1.xaml;
 
 False
 
