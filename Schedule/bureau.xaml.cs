@@ -12,16 +12,17 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
+
 namespace WpfApplication1
 {
 	/// <summary>
-	/// Interaction logic for Window1.xaml
+	/// Interaction logic for bureau.xaml
 	/// </summary>
-	public partial class Window1 : Window
+	public partial class bureau : Window
 	{
-		public Window1()
+		public bureau()
 		{
-			//InitializeComponent();
+		InitializeComponent();
 			
 			// Insert code required on object creation below this point.
 		}
