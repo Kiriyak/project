@@ -4,13 +4,31 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 C:\Users\Gaukhar\Documents\GitHub\project\Schedule\obj\x86\Debug\
+=======
+<<<<<<< HEAD
+C:\Users\Masha\Documents\GitHub\project\Schedule\obj\x86\Debug\
+=======
+C:\Users\Gaukhar\Documents\GitHub\project\Schedule\obj\x86\Debug\
+>>>>>>> bureau added
+>>>>>>> e0ad4e3
 WpfApplication1
 none
 false
 DEBUG;TRACE
+<<<<<<< HEAD
 C:\Users\Gaukhar\Documents\GitHub\project\Schedule\App.xaml
 31954625624
+=======
+<<<<<<< HEAD
+C:\Users\Masha\Documents\GitHub\project\Schedule\App.xaml
+2462529049
+=======
+C:\Users\Gaukhar\Documents\GitHub\project\Schedule\App.xaml
+31954625624
+>>>>>>> bureau added
+>>>>>>> e0ad4e3
 
 71182775947
 12-1547151337
