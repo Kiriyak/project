@@ -23,20 +23,5 @@ namespace WpfApplication1
         {
             InitializeComponent();
         }
-
-        public void OnClick(Button button, EventArgs e)
-        {
-            Button but = (Button)button;
-            if (but.Name == "OK1")
-            {
-
-            }
-        }
-
-        public void main()
-        {
-            
-
-        }
     }
 }
