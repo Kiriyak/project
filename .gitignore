@@ -1,14 +1,9 @@
-<<<<<<< HEAD
 #OS junk files
 [Tt]humbs.db
 *.DS_Store
 
 #Visual Studio files
 *.[Oo]bj
-=======
-obj
-bin
->>>>>>> 4407f7f9b
 *.user
 *.aps
 *.pch
